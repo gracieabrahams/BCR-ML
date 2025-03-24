@@ -69,10 +69,10 @@ One of our core goals is to show that **machine learning doesn't have to be a bl
 
 ## 📁 Repository Contents
 
-/poster → PDF of the research poster
-📁 /code → ML code and feature selection scripts
-📁 /data → Processed or sample dataset
-README.md → You're here!
+- /poster → PDF of the research poster
+- 📁 /code → ML code and feature selection scripts
+- 📁 /data → Processed or sample dataset
+- README.md → You're here!
 
 
 
