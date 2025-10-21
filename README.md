@@ -5,6 +5,7 @@
 **Authors**: Gracie Abrahams, Gretchen Callahan, Dalia Karim, Tyler Madison  
 **Advisor**: Dr. Mehdi Owrang, Computer Science Department, American University  
 **Presented at**: 2025 Mathias Student Research Conference
+**Published in**: Springer Link SEDE 2025 Journal https://link.springer.com/chapter/10.1007/978-3-032-08649-5_8
 
 ---
 
